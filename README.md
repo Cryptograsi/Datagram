@@ -1,6 +1,8 @@
 # Datagram
 
 Öncelikle Datagram dashboard'e [buradan](https://dashboard.datagram.network?ref=463212633) kayıt olun
+Discord'a [buradan](https://discord.gg/ydkDnkuy) katılın
+Tüm işlemleri bitirdiğinizde Early rolü almak için [bunu](https://docs.google.com/forms/d/e/1FAIpQLSevC3QjAx4xdNysKoRtCSR_5cAUtVBhoNu3XoCrQBIOYVQN8A/viewform) doldurun
 
 
 ## Datagram Klasörü Oluşturun
